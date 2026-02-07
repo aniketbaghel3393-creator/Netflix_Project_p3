@@ -51,7 +51,7 @@ The dataset represents Netflix-style content metadata, including:
 
 🧩 Grouping and sorting using GROUP BY, ORDER BY
 
-🔎 Pattern matching with LIKE
+🔎 Pattern matching with LIKE, SPLIT_PART, STRING_TO_ARRAY, TO_DATE, UNNEST
 
 🔗 Subqueries and joins (where applicable)
 
